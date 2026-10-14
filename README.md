@@ -1,3 +1,3 @@
 # lojin_tech
 
-A new Flutter project.
+projeto academico com flutter
